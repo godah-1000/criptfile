@@ -1,0 +1,2 @@
+# criptfile
+file and money
